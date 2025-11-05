@@ -13,11 +13,12 @@ I've participated in competitions for Yandex and Alfa-Bank. I also hold a regist
 ## 💼 Technical Skills
 
 ### Programming Languages
-**Primary:** Python, Vue.js, JavaScript, HTML5, CSS/SCSS
+**Primary:** Python, Vue.js, React, JavaScript, HTML5, CSS/SCSS
+
 **Familiar:** TypeScript, C++
 
 ### Frontend Development
-Vue.js • Vuex • Vue Router • JavaScript (ES6+) • HTML5 • CSS3/SCSS • Responsive Design
+Vue.js • Vuex • Vue Router • React • JavaScript (ES6+) • HTML5 • CSS3/SCSS • Responsive Design
 
 ### Backend Development
 Python • REST APIs • Data Processing • Automation
