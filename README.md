@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kellocare@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/kellocare/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://disk.yandex.ru/d/zLrdeQv2Sg_OBw)
-[![Stepik](https://img.shields.io/badge/Stepik-00B4FF?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/1123543270)
+[![Stepik](https://img.shields.io/badge/Stepik-Courses-00B4FF?style=for-the-badge&logo=book&logoColor=white)](https://stepik.org/users/1123543270)
 
 ## 🚀 About Me
 My name is **Alexander**. I'm a first-year Master's student at St. Petersburg State Technical University, majoring in Computer Science and Engineering.
