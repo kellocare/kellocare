@@ -39,4 +39,7 @@ Full-Stack Development • E-commerce • Data Analysis • Security Tools • D
 [![LeetCode Stats](https://leetcard.jacoblin.cool/kellocare?theme=dark&font=baloo)](https://leetcode.com/u/kellocare/)
 ---
 
+Team member d0ramilK1SS (https://ctftime.org/team/423966)
+
+---
 ⭐️ From [kellocare](https://github.com/kellocare)
